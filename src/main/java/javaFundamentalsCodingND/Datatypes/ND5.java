@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.Datatypes;
+package javaFundamentalsCodingND.Datatypes;
 
 import static java.lang.Math.PI;
 

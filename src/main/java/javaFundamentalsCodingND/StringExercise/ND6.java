@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.StringExercise;
+package javaFundamentalsCodingND.StringExercise;
 
 public class ND6 {
 

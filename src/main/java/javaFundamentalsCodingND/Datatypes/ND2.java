@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.Datatypes;
+package javaFundamentalsCodingND.Datatypes;
 
 // Write a Java program to divide two numbers and print on the screen: 50 / 3 = 16 remainder 2
 public class ND2 {

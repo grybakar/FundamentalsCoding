@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.StringExercise;
+package javaFundamentalsCodingND.StringExercise;
 
 //Write a java program to get the length of a given string: “This is Java!”
 //       Output: 13 characters

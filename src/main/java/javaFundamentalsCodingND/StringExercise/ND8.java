@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.StringExercise;
+package javaFundamentalsCodingND.StringExercise;
 
 //Write a java program to compare two strings lexicographically, ignoring case differences: “This
 //is a comparison” equals “THIS is A Comparison”

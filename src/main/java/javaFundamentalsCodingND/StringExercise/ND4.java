@@ -1,7 +1,4 @@
-package JavaFundamentalsCodingND.StringExercise;
-
-import java.util.ArrayList;
-import java.util.List;
+package javaFundamentalsCodingND.StringExercise;
 
 public class ND4 {
     public static void main(String[] args) {

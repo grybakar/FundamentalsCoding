@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.Datatypes;
+package javaFundamentalsCodingND.Datatypes;
 //Write a Java program to print the result of the following operations:
 //-5 + 8 * 6 = 43
 //(55+9) % 9 = 1

@@ -1,7 +1,6 @@
-package JavaFundamentalsCodingND.Loops;
+package javaFundamentalsCodingND.Loops;
 
 import java.util.ArrayList;
-import java.util.HashSet;
 import java.util.List;
 
 /*Write a Java program to print numbers between 1 to 100 which are divisible by 3, 5 and both

@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.Loops;
+package javaFundamentalsCodingND.Loops;
 
 import java.util.Scanner;
 

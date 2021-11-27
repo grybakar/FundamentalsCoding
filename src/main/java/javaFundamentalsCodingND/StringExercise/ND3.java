@@ -1,6 +1,4 @@
-package JavaFundamentalsCodingND.StringExercise;
-
-import java.util.Locale;
+package javaFundamentalsCodingND.StringExercise;
 
 public class ND3 {
     public static void main(String[] args) {

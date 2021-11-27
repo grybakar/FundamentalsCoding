@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.Datatypes;
+package javaFundamentalsCodingND.Datatypes;
 
 //Write a Java program to compare two numbers and print if they are equal or different,
 //        smaller, larger, smaller or equal, larger or equal: 25; 39

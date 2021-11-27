@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.StringExercise;
+package javaFundamentalsCodingND.StringExercise;
 
 public class ND5 {
     //Write a Java program to extract the first half of a string of even length: “Programmer”

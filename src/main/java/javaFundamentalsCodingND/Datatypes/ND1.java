@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.Datatypes;
+package javaFundamentalsCodingND.Datatypes;
 
 //Write a Java program to print the sum of two numbers: 74 + 36 = 110
 public class ND1 {

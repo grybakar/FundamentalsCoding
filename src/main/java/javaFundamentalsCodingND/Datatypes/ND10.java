@@ -1,7 +1,5 @@
-package JavaFundamentalsCodingND.Datatypes;
+package javaFundamentalsCodingND.Datatypes;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Scanner;
 
 /*Write a Java program to compute the sum of the digits of an integer: 133

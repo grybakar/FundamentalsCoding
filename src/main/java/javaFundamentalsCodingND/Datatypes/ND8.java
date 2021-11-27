@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.Datatypes;
+package javaFundamentalsCodingND.Datatypes;
 
 /*Write a Java program to swap two variables: a = 5; b = 13
 Output: a = 13; b = 5;*/

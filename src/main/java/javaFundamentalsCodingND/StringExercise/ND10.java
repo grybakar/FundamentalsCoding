@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.StringExercise;
+package javaFundamentalsCodingND.StringExercise;
 
 //Write a Java program to count the letters, spaces, numbers and other characters of an input
 //        string: “Aa kiu, I swd skieo 2387. GH kiu: sieo?? 25.33”

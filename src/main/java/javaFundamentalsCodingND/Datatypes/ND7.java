@@ -1,4 +1,4 @@
-package JavaFundamentalsCodingND.Datatypes;
+package javaFundamentalsCodingND.Datatypes;
 /*Write a Java program to print the area and perimeter of a rectangle: Width = 5.5; Height = 8.5
 Output: Area = 47.60; Perimeter = 28.20*/
 public class ND7 {

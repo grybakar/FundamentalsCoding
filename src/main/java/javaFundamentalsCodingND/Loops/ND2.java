@@ -1,6 +1,4 @@
-package JavaFundamentalsCodingND.Loops;
-
-import java.util.Scanner;
+package javaFundamentalsCodingND.Loops;
 
 /*Write a Java program that lists all even numbers from 1 to 100
 Output: 2, 4, 6, 8, ...,100*/
